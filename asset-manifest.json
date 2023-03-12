@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emoji-random/static/css/main.9d968a39.css",
+    "main.js": "/emoji-random/static/js/main.6f314e61.js",
+    "static/js/787.5c89424b.chunk.js": "/emoji-random/static/js/787.5c89424b.chunk.js",
+    "index.html": "/emoji-random/index.html",
+    "main.9d968a39.css.map": "/emoji-random/static/css/main.9d968a39.css.map",
+    "main.6f314e61.js.map": "/emoji-random/static/js/main.6f314e61.js.map",
+    "787.5c89424b.chunk.js.map": "/emoji-random/static/js/787.5c89424b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d968a39.css",
+    "static/js/main.6f314e61.js"
+  ]
+}
